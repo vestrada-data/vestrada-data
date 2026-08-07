@@ -8,16 +8,8 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
 <br>
 ❤️ Fun fact: Me encanta escribir
 
-📫 How to reach me: veroerobles@gmail.com
-
-[LinkedIn](https://linkedin.com/in/veroestradarobles) | [Projects](https://github.com/vero-datadata_analytics)
- 
-
 ##
-# Proyectos seleccionados
-
-
-
+# Proyectos 
 <img width="380" height="210" alt="Captura" src="https://github.com/user-attachments/assets/05491523-e1d8-4d52-9d6b-bbb4413e420f" />
 
  | Proyecto | Descripción | Tecnologías | Enlace |

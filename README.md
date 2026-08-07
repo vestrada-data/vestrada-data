@@ -6,8 +6,9 @@ Creo que los datos generan valor cuando ayudan a responder las preguntas correct
 Soy Ingeniera en Computación con experiencia en desarrollo de sistemas, liderazgo y análisis de información. Certificada como  Data Analyst, con experiencia en  proyectos desarrollados con SQL, Python y Power BI.
 
 Disfruto transformar datos en insights que permitan comprender el negocio, identificar oportunidades y facilitar la toma de decisiones mediante dashboards e indicadores claros y accionables.
+<br>
 ❤️ Fun fact: Me encanta escribir
-. 
+
 📫 How to reach me: veroerobles@gmail.com
 
 [LinkedIn](https://linkedin.com/in/veroestradarobles) | [Projects](https://github.com/vero-datadata_analytics)

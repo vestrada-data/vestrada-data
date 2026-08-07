@@ -1,25 +1,54 @@
-# vestrada_data
+ <h1 align="center">Verónica Estrada</h1>
+<h3 align="center">Data Analyst | SQL | Python | Power BI |  KPIs & Dashboards </h3>
 
-## Hi there 👋
+### Acerca de mi:
+Creo que los datos generan valor cuando ayudan a responder las preguntas correctas.
+Soy Ingeniera en Computación con experiencia en desarrollo de sistemas, liderazgo y análisis de información. Certificada como  Data Analyst, con experiencia en  proyectos desarrollados con SQL, Python y Power BI.
 
-### About me:
-🔭 I’m currently working on strengthening my profile to face new professional challenges.
-
-🌱 I’m currently practicing SQL, Python and  leanring Power BI.
-
-⚡ I enjoy implementing new automations to save time.
-
-❤️ Fun fact: Amateur writter. 
-
+Disfruto transformar datos en insights que permitan comprender el negocio, identificar oportunidades y facilitar la toma de decisiones mediante dashboards e indicadores claros y accionables.
+❤️ Fun fact: Me encanta escribir
+. 
 📫 How to reach me: veroerobles@gmail.com
 
 [LinkedIn](https://linkedin.com/in/veroestradarobles) | [Projects](https://github.com/vero-datadata_analytics)
+ 
 
-### Technical Skills:
+##
+# Proyectos seleccionados
 
+ | Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| 📊 Andes Retail Group | Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. |  Python - Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/AndesRetail_PowerBI) |
+| 🏛 Análisis Comercial | Dashboard para monitorear indicadores operativos y comportamiento de visitantes. | Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/Analisis_Comercial)|
+| 📡 Telecom Analysis | Análisis de abandono de clientes (Churn) utilizando SQL y Python para identificar factores clave. | Python · SQL | [Ver proyecto](https://github.com/vestrada-data/telecom-project) |
+| 🚦 Movilidad vs Desarrollo Económico | Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. | Python · Pandas · Google Sheets | [Ver proyecto](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-) | |
+
+
+***Competencias***<br>
+- KPI Design
+- Limpieza y EDA
+- Data Visualization
+- Dashboard Design
+- Storytelling (SCQA)
+
+***Lenguajes***<br>
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/MICROSOFT_EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+***Análisis***<br>
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+***Visualización***<br>
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+***📜 Certificaciones*** 
+- TripleTen – Data Analyst (2026)  
+- Maestría en Educación Basada en Competencias – UVM (2018-2020)
+- Ingeniería en Computación – UNAM (1990-1994)
+
+<br>
+⭐ Siempre aprendiendo para convertir datos en información útil para la toma de decisiones.
 

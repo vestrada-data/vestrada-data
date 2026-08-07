@@ -18,7 +18,7 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
 
 
 
-<img width="480" height="210" alt="Captura" src="https://github.com/user-attachments/assets/05491523-e1d8-4d52-9d6b-bbb4413e420f" />
+<img width="380" height="210" alt="Captura" src="https://github.com/user-attachments/assets/05491523-e1d8-4d52-9d6b-bbb4413e420f" />
 
  | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|

@@ -1,5 +1,4 @@
  <h1 align="center">Verónica Estrada</h1>
-<h3 align="center">Data Analyst | SQL | Python | Power BI |  KPIs & Dashboards </h3>
 
 ### Acerca de mi:
 Creo que los datos generan valor cuando ayudan a responder las preguntas correctas.

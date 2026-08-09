@@ -6,16 +6,19 @@ Soy Ingeniera en Computación con experiencia en desarrollo de sistemas, lideraz
 
 Disfruto transformar datos en insights que permitan comprender el negocio, identificar oportunidades y facilitar la toma de decisiones mediante dashboards e indicadores claros y accionables.
 <br>
-❤️ Fun fact: Me encanta escribir
+
+Fuera del mundo analítico, encuentro equilibrio en la escritura creativa —participando activamente en publicaciones colectivas desde 2020— y en proyectos de voluntariado. Creo profundamente en la empatía, la comunicación clara y el valor de asumir nuevos retos continuamente.
+
+Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda aplicar SQL, Python y Power BI para transformar datos en insights accionables.
 
 ##
 # Proyectos 
-<img width="380" height="210" alt="Captura" src="https://github.com/user-attachments/assets/05491523-e1d8-4d52-9d6b-bbb4413e420f" />
+
 
  | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
 | 📊 Andes Retail Group | Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. |  Python - Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/AndesRetail_PowerBI) |
-| 🏛 Análisis Comercial | Dashboard para monitorear indicadores operativos y comportamiento de visitantes. | Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/Analisis_Comercial)|
+| 🏛 Análisis Comercial | Implementación de Solución Analítica para el Análisis de Rendimiento Comercial y Márgenes  | Power BI · DAX | <img width="280" height="210" alt="Captura" src="https://github.com/user-attachments/assets/05491523-e1d8-4d52-9d6b-bbb4413e420f" />|
 | 📡 Telecom Analysis | Análisis de abandono de clientes (Churn) utilizando SQL y Python para identificar factores clave. | Python · SQL | [Ver proyecto](https://github.com/vestrada-data/telecom-project) |
 | 🚦 Movilidad vs Desarrollo Económico | Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. | Python · Pandas · Google Sheets | [Ver proyecto](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-) | |
 

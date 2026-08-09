@@ -17,15 +17,18 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 ##
  |<span style="font-size:14px;">PROYECTOS</span> |
 |----------|
-|<big>Análisis Comercial</big> - Implementación de Solución Analítica para el Análisis de Rendimiento Comercial y Márgenes - Power BI · DAX  |
+|<big>ANÁLISIS COMERCIAL</big> - Implementación de Solución Analítica para el Análisis de Rendimiento Comercial y Márgenes - Power BI · DAX  |
 |<p align="center"><img width="653" height="375" alt="Captura1" src="https://github.com/user-attachments/assets/79faaf5a-f255-4406-aa9c-3fe3432213c7" /><p>|
 |💡 Insights: La operación de la empresa presenta un riesgo de concentración crítico. Al depender casi en su totalidad de la categoría 'Electrónica' (y específicamente de la venta de hardware de alta gama)|
-|Andes Retail Group - Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. - Python - Power BI · DAX |
+|ANDES RETAIL GROUP - Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. - Python - Power BI · DAX |
 |<p align="center"> <img width="656" height="381" alt="AndesR" src="https://github.com/user-attachments/assets/e638bf44-2bd9-43dc-ba98-e5fc2ec79807" /><p></p>|
-|Telecom Anaysis Análisis de abandono de clientes (Churn) utilizando SQL y Python para identificar factores clave. - Python · SQL |
+|💡|
+|TELECOM ANALYSIS  DE ABANDONO - (Churn) utilizando SQL y Python para identificar factores clave. - Python · SQL |
 |<p align="center"><img width="557" height="361" alt="Perfil demografico" src="https://github.com/user-attachments/assets/8da47b75-f5d7-4cee-a1bf-89a8ed5f6b1b" /><p>|
-|Movilidad vs Desarrollo Económico  Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. -Python · Pandas · Google Sheets|
+|💡|
+|MOVILIDAD  VS  DESARROLLO ECONÓMICO-  Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. -Python · Pandas · Google Sheets|
 |<p align="center"><img width="665" height="237" alt="PIB" src="https://github.com/user-attachments/assets/d6e148aa-95f3-4b2b-b2d4-51724cb45c88" /><p></p>|
+|💡|
 
 ***Competencias***<br>
 - KPI Design

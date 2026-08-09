@@ -1,5 +1,5 @@
 <img width="1960" height="512" alt="Gemini_Generated_Image_9z4m7q9z4m7q9z4m" src="https://github.com/user-attachments/assets/b93457c7-5c47-41c1-b7ab-e3e41cea7e45" />
- <h1 align="center">Verónica Estrada</h1>
+ <h1 align="center"></h1>
 
 ### Acerca de mi:
 Creo que los datos generan valor cuando ayudan a responder las preguntas correctas.

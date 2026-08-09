@@ -18,7 +18,7 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 
  | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
-| 📈 Análisis Comercial | Implementación de Solución Analítica para el Análisis de Rendimiento Comercial y Márgenes  | Power BI · DAX |<img width="853" height="475" alt="Captura1" src="https://github.com/user-attachments/assets/79faaf5a-f255-4406-aa9c-3fe3432213c7" />|
+| 📈 Análisis Comercial | Implementación de Solución Analítica para el Análisis de Rendimiento Comercial y Márgenes  | Power BI · DAX |<img width="653" height="475" alt="Captura1" src="https://github.com/user-attachments/assets/79faaf5a-f255-4406-aa9c-3fe3432213c7" />|
 | 📊 Andes Retail Group | Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. |  Python - Power BI · DAX | <img width="656" height="381" alt="AndesR" src="https://github.com/user-attachments/assets/e638bf44-2bd9-43dc-ba98-e5fc2ec79807" />|
 | 📡 Telecom Analysis | Análisis de abandono de clientes (Churn) utilizando SQL y Python para identificar factores clave. | Python · SQL |  |
 | 🚦 Movilidad vs Desarrollo Económico | Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. | Python · Pandas · Google Sheets | |

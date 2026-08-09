@@ -21,6 +21,7 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 |----------|
 |***Análisis Comercial - Implementación de Solución Analítica para el Análisis de Rendimiento Comercial y Márgenes - Power BI · DAX  |
 |<img width="653" height="375" alt="Captura1" src="https://github.com/user-attachments/assets/79faaf5a-f255-4406-aa9c-3fe3432213c7" />|
+|💡 Insights: La operación de la empresa presenta un riesgo de concentración crítico. Al depender casi en su totalidad de la categoría 'Electrónica' (y específicamente de la venta de hardware de alta gama)
 |##Andes Retail Group - Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. - Python - Power BI · DAX |
  <img width="656" height="381" alt="AndesR" src="https://github.com/user-attachments/assets/e638bf44-2bd9-43dc-ba98-e5fc2ec79807" />|
 | ##Telecom Anaysis <img width="557" height="361" alt="Perfil demografico" src="https://github.com/user-attachments/assets/8da47b75-f5d7-4cee-a1bf-89a8ed5f6b1b" />

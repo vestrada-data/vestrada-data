@@ -1,4 +1,6 @@
-<img width="1960" height="512" alt="Gemini_Generated_Image_9z4m7q9z4m7q9z4m" src="https://github.com/user-attachments/assets/b93457c7-5c47-41c1-b7ab-e3e41cea7e45" />
+
+
+<img width="1536" height="497" alt="GitProfile" src="https://github.com/user-attachments/assets/a889dc3c-d2d6-4329-b898-a0451379bc69" />
  <h1 align="center"></h1>
 
 ### Acerca de mi:

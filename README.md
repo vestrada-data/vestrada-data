@@ -17,10 +17,10 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 
  | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
-| 📊 Andes Retail Group | Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. |  Python - Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/AndesRetail_PowerBI) |
-| 🏛 Análisis Comercial | Implementación de Solución Analítica para el Análisis de Rendimiento Comercial y Márgenes  | Power BI · DAX | <img width="280" height="210" alt="Captura" src="https://github.com/user-attachments/assets/05491523-e1d8-4d52-9d6b-bbb4413e420f" />|
-| 📡 Telecom Analysis | Análisis de abandono de clientes (Churn) utilizando SQL y Python para identificar factores clave. | Python · SQL | [Ver proyecto](https://github.com/vestrada-data/telecom-project) |
-| 🚦 Movilidad vs Desarrollo Económico | Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. | Python · Pandas · Google Sheets | [Ver proyecto](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-) | |
+| 📊 Andes Retail Group | Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. |  Python - Power BI · DAX |  |
+| 🏛 Análisis Comercial | Implementación de Solución Analítica para el Análisis de Rendimiento Comercial y Márgenes  | Power BI · DAX |<img width="753" height="475" alt="Captura1" src="https://github.com/user-attachments/assets/79faaf5a-f255-4406-aa9c-3fe3432213c7" />|
+| 📡 Telecom Analysis | Análisis de abandono de clientes (Churn) utilizando SQL y Python para identificar factores clave. | Python · SQL |  |
+| 🚦 Movilidad vs Desarrollo Económico | Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. | Python · Pandas · Google Sheets | |
 
 
 ***Competencias***<br>

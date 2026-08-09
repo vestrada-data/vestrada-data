@@ -29,7 +29,8 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 También es importante considerar que el aumento en el número de usuarios que generan estos oultiers, podría comprometer la capacidad técnica de la empresa y afectar la estabilidad de los usuarios de Uso medio.|
 |MOVILIDAD  VS  DESARROLLO ECONÓMICO-  Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. -Python · Pandas · Google Sheets|
 |<p align="center"><img width="665" height="237" alt="PIB" src="https://github.com/user-attachments/assets/d6e148aa-95f3-4b2b-b2d4-51724cb45c88" /><p></p>|
-|💡|
+|💡 Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público.
+Por otro lado, ciudades como Santiago muestran baja congestión vehicular y alto PIB, funcionando como un caso más eficiente.|
 
 ***Competencias***<br>
 - KPI Design

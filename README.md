@@ -7,7 +7,7 @@ Soy Ingeniera en Computación con experiencia en desarrollo de sistemas, lideraz
 Disfruto transformar datos en insights que permitan comprender el negocio, identificar oportunidades y facilitar la toma de decisiones mediante dashboards e indicadores claros y accionables.
 <br>
 
-📝❤️  Fuera del mundo analítico, encuentro equilibrio en la escritura creativa —  participando activamente en publicaciones colectivas desde 2020— y en proyectos de voluntariado. Creo profundamente en la empatía, la comunicación clara y el valor de asumir nuevos retos continuamente.
+📝 Fuera del mundo analítico, encuentro equilibrio en la escritura creativa —  participando activamente en publicaciones colectivas desde 2020— y en proyectos de voluntariado. Creo profundamente en la empatía, la comunicación clara y el valor de asumir nuevos retos continuamente.
 
 Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda aplicar SQL, Python y Power BI para transformar datos en insights accionables.
 

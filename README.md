@@ -13,6 +13,10 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
 📚📝 Fuera del mundo analítico, encuentro equilibrio en la escritura creativa —  participando activamente en publicaciones colectivas desde 2020— y en proyectos de voluntariado. Creo profundamente en la empatía, la comunicación clara y el valor de asumir nuevos retos continuamente.
 
 Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda aplicar SQL, Python y Power BI para transformar datos en insights accionables.
+<p align="center">
+  <a href="mailto:veroerobles@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
 ##
  |<span style="font-size:14px;">PROYECTOS</span> |

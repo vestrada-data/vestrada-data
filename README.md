@@ -18,6 +18,12 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
     <img src="https://img.shields.io/badge/Email-Contact_Me-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
+  <a href="https://www.linkedin.com/in/veroestradarobles/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ver%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+
 ##
  |<span style="font-size:14px;">PROYECTOS</span> |
 |----------|

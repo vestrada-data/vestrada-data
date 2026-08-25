@@ -31,10 +31,9 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 |SQL, Python, Power BI · DAX  |
 |<p align="center"><img width="653" height="375" alt="Captura1" src="https://github.com/user-attachments/assets/79faaf5a-f255-4406-aa9c-3fe3432213c7" /><p>|
 |💡 Insights: La operación de la empresa presenta un riesgo de concentración crítico. Al depender casi en su totalidad de la categoría 'Electrónica' (y específicamente de la venta de hardware de alta gama)|
-|ANDES RETAIL GROUP - Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. |
+| ANDES RETAIL GROUP - Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. |
 |Python - Power BI · DAX |
-|<p align="center"><img width="757" height="436" alt="Captura" src="https://github.com/user-attachments/assets/801bcac8-f252-4b9b-b531-4641b738d745" />
-</p>|
+|<p align="center"><img width="757" height="436" alt="Captura" src="https://github.com/user-attachments/assets/801bcac8-f252-4b9b-b531-4641b738d745" /></p>|
 |💡 Principales insights: Durante el periodo 2024-2025, Andes Retail Group consolidó una operación comercial sólida, alcanzando una facturación global de $5.53 millones y una rentabilidad del 35.07%.Sin embargo,  se detectó que el segmento Estándar,  sufre un desplome del 49% en su facturación, arrastrando a la mayor parte de su cartera de clientes (66.13%) a un comportamiento de venta baja debido probablemente a los gastos escolares.   |
 |TELECOM ANALYSIS  DE ABANDONO - (Churn) utilizando SQL y Python para identificar factores clave.|
 |Python · SQL |
@@ -43,8 +42,7 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 |MOVILIDAD  VS  DESARROLLO ECONÓMICO-  Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. |
 |Python · Pandas · Google Sheets|
 |<p align="center"><img width="699" height="382" alt="Tendencias" src="https://github.com/user-attachments/assets/ff2f69bf-4655-4ccf-a0f2-624986a4dbcf" /></p>|
-|💡 Insights: Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público.
-Por otro lado, ciudades como Santiago muestran baja congestión vehicular y alto PIB, funcionando como un caso más eficiente.|
+|💡 Insights: Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público.|
 
 ***Competencias***<br>
 - KPI Design

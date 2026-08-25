@@ -33,7 +33,8 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 |💡 Insights: La operación de la empresa presenta un riesgo de concentración crítico. Al depender casi en su totalidad de la categoría 'Electrónica' (y específicamente de la venta de hardware de alta gama)|
 |ANDES RETAIL GROUP - Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. |
 |Python - Power BI · DAX |
-|<p align="center"> <img width="656" height="381" alt="AndesR" src="https://github.com/user-attachments/assets/e638bf44-2bd9-43dc-ba98-e5fc2ec79807" /><p></p>|
+|<p align="center"><img width="757" height="436" alt="Captura" src="https://github.com/user-attachments/assets/801bcac8-f252-4b9b-b531-4641b738d745" />
+</p>|
 |💡 Principales insights: Durante el periodo 2024-2025, Andes Retail Group consolidó una operación comercial sólida, alcanzando una facturación global de $5.53 millones y una rentabilidad del 35.07%.Sin embargo,  se detectó que el segmento Estándar,  sufre un desplome del 49% en su facturación, arrastrando a la mayor parte de su cartera de clientes (66.13%) a un comportamiento de venta baja debido probablemente a los gastos escolares.   |
 |TELECOM ANALYSIS  DE ABANDONO - (Churn) utilizando SQL y Python para identificar factores clave.|
 |Python · SQL |

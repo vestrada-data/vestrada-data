@@ -29,7 +29,11 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 |----------|
 |<big>RADAR DE PERMANENCIA ESTUDIANTIL</big> - Modelo de  regresión logística que calcula una probabilidad de un estudiante abandone después de este semestre, según su Promedio semestral, cursos reprobados, estrés financiero, beca, etcétera.  |
 |Python, Power BI · DAX  |
-|<p align="center"><img width="653" height="375" alt="Captura1" src="https://github.com/user-attachments/assets/79faaf5a-f255-4406-aa9c-3fe3432213c7" /><p>|
+|<p align="center">
+<img width="434" height="310" alt="Char3" src="https://github.com/user-attachments/assets/024f96a6-8ff2-4018-bf09-9686fc8b22f8" />
+<p>|
+|<p align="center"><img width="434" height="310" alt="Char3" src="https://github.com/user-attachments/assets/ae7b1f23-0cd8-4510-aedc-f0847913dc82" />
+<p>|
 |💡 Insights: El modelo ordena a los estudiantes por riesgo con una capacidad discriminativa buena (ROC-AUC 0.80) y rinde casi cuatro veces mejor que el azar para encontrar a quienes abandonan (PR-AUC 0.39 frente a 0.10). Sirve para priorizar a quién contactar, no para predecir con certeza el caso individual.
 Los niveles de riesgo del modelo sí separan a quienes abandonan: en el grupo alto abandona casi 3 de cada 10 y en el bajo, 3 de cada 100.
 Los factores que más se asocian con el abandono son los cursos reprobados, el estrés financiero y ser de primera generación; el GPA alto y la beca se asocian con menos riesgo.

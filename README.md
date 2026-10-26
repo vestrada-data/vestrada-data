@@ -27,7 +27,7 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 ##
  |<span style="font-size:14px;">PROYECTOS</span> |
 |----------|
-|<big>RADAR DE PERMANENCIA ESTUDIANTIL</big> - Modelo de  regresión logística que calcula una probabilidad de un estudiante abandone después de este semestre, según su Promedio semestral, cursos reprobados, estrés financiero, beca, etcétera.  |
+|<big>RADAR DE PERMANENCIA ESTUDIANTIL</big> - Modelo de  regresión logística que calcula la probabilidad de que un estudiante abandone después de este semestre, según su Promedio semestral, cursos reprobados, estrés financiero, beca, etcétera.  |
 |Python, Power BI · DAX  |
 |<p align="center"><img width="311" height="303" alt="chart1" src="https://github.com/user-attachments/assets/2ed30f01-1b09-452f-817a-e33b4e88edf8" />      <img width="434" height="310" alt="Char3" src="https://github.com/user-attachments/assets/024f96a6-8ff2-4018-bf09-9686fc8b22f8" />
 <p>|

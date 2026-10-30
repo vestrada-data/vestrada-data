@@ -31,7 +31,7 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
 |Python, Power BI · DAX  |
 |<p align="center"><img width="311" height="303" alt="chart1" src="https://github.com/user-attachments/assets/2ed30f01-1b09-452f-817a-e33b4e88edf8" />      <img width="434" height="310" alt="Char3" src="https://github.com/user-attachments/assets/024f96a6-8ff2-4018-bf09-9686fc8b22f8" />
 <p>|
-|💡 Insights: El modelo ordena a los estudiantes por riesgo con una capacidad discriminativa buena (ROC-AUC 0.80) y rinde casi cuatro veces mejor que el azar para encontrar a quienes abandonan (PR-AUC 0.39 frente a 0.10). Sirve para priorizar a quién contactar, no para predecir con certeza el caso individual.
+💡 Insights: El modelo ordena a los estudiantes por riesgo con una capacidad discriminativa buena (ROC-AUC 0.80) y rinde casi cuatro veces mejor que el azar para encontrar a quienes abandonan (PR-AUC 0.39 frente a 0.10). Sirve para priorizar a quién contactar, no para predecir con certeza el caso individual.
 Los niveles de riesgo del modelo sí separan a quienes abandonan: en el grupo alto abandona casi 3 de cada 10 y en el bajo, 3 de cada 100.
 Los factores que más se asocian con el abandono son los cursos reprobados, el estrés financiero y ser de primera generación; el GPA alto y la beca se asocian con menos riesgo.
 Limitaciones El modelo estima riesgo, no causalidad, y no predice con certeza el caso individual Los resultados corresponden a un conjunto de prueba con estudiantes que el modelo no vio. |

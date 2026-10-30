@@ -51,30 +51,39 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
         <p><b>Limitaciones:</b> El modelo estima riesgo, no causalidad, y no predice con certeza el caso individual. Los resultados corresponden a un conjunto de prueba con estudiantes que el modelo no vio.</p>
       </td>
     </tr>
- 
- 
- 
- 
- 
- 
- |<span style="font-size:14px;">PROYECTOS</span> |
-|----------|
-|<big>RADAR DE PERMANENCIA ESTUDIANTIL</big> - Modelo de  regresión logística que calcula la probabilidad de que un estudiante abandone después de este semestre, según su Promedio semestral, cursos reprobados, estrés financiero, beca, etcétera.  |
-|Python, Power BI · DAX  |
-|<p align="center"><img width="311" height="303" alt="chart1" src="https://github.com/user-attachments/assets/2ed30f01-1b09-452f-817a-e33b4e88edf8" />      <img width="434" height="310" alt="Char3" src="https://github.com/user-attachments/assets/024f96a6-8ff2-4018-bf09-9686fc8b22f8" />
-<p>|
-💡 Insights: El modelo ordena a los estudiantes por riesgo con una capacidad discriminativa buena (ROC-AUC 0.80) y rinde casi cuatro veces mejor que el azar para encontrar a quienes abandonan (PR-AUC 0.39 frente a 0.10). Sirve para priorizar a quién contactar, no para predecir con certeza el caso individual.
-Los niveles de riesgo del modelo sí separan a quienes abandonan: en el grupo alto abandona casi 3 de cada 10 y en el bajo, 3 de cada 100.
-Los factores que más se asocian con el abandono son los cursos reprobados, el estrés financiero y ser de primera generación; el GPA alto y la beca se asocian con menos riesgo.
-Limitaciones El modelo estima riesgo, no causalidad, y no predice con certeza el caso individual Los resultados corresponden a un conjunto de prueba con estudiantes que el modelo no vio. |
-|<big>ANÁLISIS COMERCIAL</big> - Implementación de Solución Analítica para el Análisis de Rendimiento Comercial y Márgenes |
-|SQL, Python, Power BI · DAX  |
-|<p align="center"><img width="653" height="375" alt="Captura1" src="https://github.com/user-attachments/assets/79faaf5a-f255-4406-aa9c-3fe3432213c7" /><p>|
-|💡 Insights: La operación de la empresa presenta un riesgo de concentración crítico. Al depender casi en su totalidad de la categoría 'Electrónica' (y específicamente de la venta de hardware de alta gama)|
-|ANDES RETAIL GROUP - Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. |
-|Python - Power BI · DAX |
-|<p align="center"><img width="757" height="436" alt="Captura" src="https://github.com/user-attachments/assets/801bcac8-f252-4b9b-b531-4641b738d745" /></p>
-💡 Principales insights: Durante el periodo 2024-2025, Andes Retail Group consolidó una operación comercial sólida, alcanzando una facturación global de $5.53 millones y una rentabilidad del 35.07%.Sin embargo,  se detectó que el segmento Estándar,  sufre un desplome del 49% en su facturación, arrastrando a la mayor parte de su cartera de clientes (66.13%) a un comportamiento de venta baja debido probablemente a los gastos escolares.   |
+ <!-- ===== PROYECTO 2 ===== -->
+    <tr>
+      <td>
+        <h3>ANÁLISIS COMERCIAL</h3>
+        <p>Implementación de solución analítica para el análisis de rendimiento comercial y márgenes.</p>
+        <p><b>SQL, Python, Power BI · DAX</b></p>
+        <p align="center">
+          <img width="653" height="375" alt="Captura1" src="https://github.com/user-attachments/assets/79faaf5a-f255-4406-aa9c-3fe3432213c7" />
+        </p>
+  <p>💡 <b>Insights:</b></p>
+        <ul>
+          <li>La operación de la empresa presenta un riesgo de concentración crítico. Al depender casi en su totalidad de la categoría 'Electrónica' (y específicamente de la venta de hardware de alta gama).</li>
+      </td>
+    </tr>
+ <!-- ===== PROYECTO 3 ===== -->
+    <tr>
+      <td>
+        <h3>ANDES RETAIL GROUPL</h3>
+        <p> Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas.</p>
+        <p><b>SQL, Python, Power BI · DAX</b></p>
+        <p align="center">
+        <p align="center"><img width="757" height="436" alt="Captura" src="https://github.com/user-attachments/assets/801bcac8-f252-4b9b-b531-4641b738d745" />  
+        </p>
+  <p>💡 <b>Insights:</b></p>
+        <ul>
+          <li>
+           Principales insights: Durante el periodo 2024-2025, Andes Retail Group consolidó una operación comercial sólida, alcanzando una facturación global de $5.53 millones y una rentabilidad del 35.07%.Sin embargo,  se detectó que el segmento Estándar,  sufre un desplome del 49% en su facturación, arrastrando a la mayor parte de su cartera de clientes (66.13%) a un comportamiento de venta baja debido probablemente a los gastos escolares.</li>
+      </td>
+    </tr>
+
+  </tbody>
+</table> 
+
 |TELECOM ANALYSIS  DE ABANDONO - (Churn) utilizando SQL y Python para identificar factores clave.|
 |Python · SQL |
 |<p align="center"><img width="548" height="368" alt="Actividad   Telefonica" src="https://github.com/user-attachments/assets/6cbd84ed-4548-426b-9e6d-7eea8587a9af" /><p>

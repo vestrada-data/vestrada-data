@@ -42,6 +42,8 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
           <img width="311" height="303" alt="chart1" src="https://github.com/user-attachments/assets/2ed30f01-1b09-452f-817a-e33b4e88edf8" />
           <img width="434" height="310" alt="Char3" src="https://github.com/user-attachments/assets/024f96a6-8ff2-4018-bf09-9686fc8b22f8" />
         </p>
+         <p align="center">
+       </p>
         <p>💡 <b>Insights:</b></p>
         <ul>
           <li>El modelo ordena a los estudiantes por riesgo con una capacidad discriminativa buena (ROC-AUC 0.80) y rinde casi cuatro veces mejor que el azar para encontrar a quienes abandonan (PR-AUC 0.39 frente a 0.10). Sirve para priorizar a quién contactar, no para predecir con certeza el caso individual.</li>
@@ -54,7 +56,7 @@ Actualmente busco oportunidades como Data Analyst / BI Analyst, donde pueda apli
  <!-- ===== PROYECTO 2 ===== -->
     <tr>
       <td>
-        <h3>ANÁLISIS COMERCIAL</h3>
+        <h3>ANÁLISIS COMERCIA</h3>
         <p>Implementación de solución analítica para el análisis de rendimiento comercial y márgenes.</p>
         <p><b>SQL, Python, Power BI · DAX</b></p>
         <p align="center">
